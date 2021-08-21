@@ -1,2 +1,2 @@
 # NumberGuessingGame
-This is a simple number guessing game in python!
+A simple number guessing game in python!
